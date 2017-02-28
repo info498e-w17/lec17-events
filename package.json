@@ -1,0 +1,21 @@
+{
+  "name": "lec17-events",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "node build/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^7.0.4",
+    "@types/pubsub-js": "^1.5.17",
+    "@types/rx": "^4.1.1"
+  },
+  "dependencies": {
+    "pubsub-js": "^1.5.4",
+    "rx": "^4.1.0"
+  }
+}
